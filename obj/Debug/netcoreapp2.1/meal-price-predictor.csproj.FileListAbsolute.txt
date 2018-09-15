@@ -1,0 +1,11 @@
+/Users/Ana/Documents/GitHub/meal-price-predictor/bin/Debug/netcoreapp2.1/meal-price-predictor.deps.json
+/Users/Ana/Documents/GitHub/meal-price-predictor/bin/Debug/netcoreapp2.1/meal-price-predictor.runtimeconfig.json
+/Users/Ana/Documents/GitHub/meal-price-predictor/bin/Debug/netcoreapp2.1/meal-price-predictor.runtimeconfig.dev.json
+/Users/Ana/Documents/GitHub/meal-price-predictor/bin/Debug/netcoreapp2.1/meal-price-predictor.dll
+/Users/Ana/Documents/GitHub/meal-price-predictor/bin/Debug/netcoreapp2.1/meal-price-predictor.pdb
+/Users/Ana/Documents/GitHub/meal-price-predictor/obj/Debug/netcoreapp2.1/meal-price-predictor.csprojAssemblyReference.cache
+/Users/Ana/Documents/GitHub/meal-price-predictor/obj/Debug/netcoreapp2.1/meal-price-predictor.csproj.CoreCompileInputs.cache
+/Users/Ana/Documents/GitHub/meal-price-predictor/obj/Debug/netcoreapp2.1/meal-price-predictor.AssemblyInfoInputs.cache
+/Users/Ana/Documents/GitHub/meal-price-predictor/obj/Debug/netcoreapp2.1/meal-price-predictor.AssemblyInfo.cs
+/Users/Ana/Documents/GitHub/meal-price-predictor/obj/Debug/netcoreapp2.1/meal-price-predictor.dll
+/Users/Ana/Documents/GitHub/meal-price-predictor/obj/Debug/netcoreapp2.1/meal-price-predictor.pdb
